@@ -1,11 +1,11 @@
 
 <h2 align="left">👋 Hi, I'm Muh. Iqram Bahring</h2>
-<h3 align="left">A Junior Fullstack Developer from Indonesia</h3>
+<h3 align="left">A Junior Fullstack Developer from Indonesian</h3>
 <ul>
     <li>🌱 I’m currently learning <strong>JavaScript Development Environment</strong>.</li>
     <li>👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/mhiqrambhrng/">LinkedIn</a>.</li>
     <li>📝 I regularly write articles on <a href="https://muhiqrambahring.blogspot.com/">Blogger</a>.</li>
-    <li>📫 How to reach me: <a href="mailto:mhiqrambg@mailoffice.com">Email</a> | <strong>mhiqrambg@mailoffice.com</strong></li>
+    <li>📫 How to reach me: <a href="mailto:mhiqrambg@mailoffice.com">Mail</a> | <strong>mhiqrambg@mailoffice.com</strong></li>
 </ul>
 <h2></h2>
 <h3 align="left">📱 Social Media:</h3>
