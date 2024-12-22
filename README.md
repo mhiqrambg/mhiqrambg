@@ -5,7 +5,7 @@
     <li>🌱 I’m currently learning <strong>JavaScript Development Environment</strong>.</li>
     <li>👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/mhiqrambhrng/">LinkedIn</a>.</li>
     <li>📝 I regularly write articles on <a href="https://muhiqrambahring.blogspot.com/">Blogger</a>.</li>
-    <li>📫 How to reach me: <a href="mailto:mhiqrambg@mailoffice.com">Mail</a> | <strong>mhiqrambg@mailoffice.com</strong></li>
+    <li>📫 How to reach me: <a href="mailto:mhiqrambg@mailoffice.com">Mail</a> | <strong>mhiqrambg@gmail.com.com</strong></li>
 </ul>
 <h2></h2>
 <h3 align="left">📱 Social Media:</h3>
