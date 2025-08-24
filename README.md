@@ -11,9 +11,6 @@
 <h3 align="left">📱 Social Media:</h3>
 
 <div>
-    <a href="https://dev.to/mhiqrambhrng" target="_blank" style="margin-right: 10px; ">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mhiqrambhrng" height="30" width="40" />
-    </a>
     <a href="https://linkedin.com/in/mhiqrambhrng" target="_blank" style="margin-right: 10px;">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhiqrambhrng" height="30" width="40" />
     </a>
