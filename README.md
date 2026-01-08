@@ -48,7 +48,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhiqrambg&show_icons=true&theme=dracula&locale=en&count_private=true" alt="mhiqrambg GitHub stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhiqrambg&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mhiqrambg top langs" />
+  ![](https://raw.githubusercontent.com/mhiqrambg/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  <br/><br/>  
 </p>
