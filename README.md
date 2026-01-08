@@ -47,8 +47,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=mhiqrambg&show_icons=true&theme=dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=mhiqrambg&theme=dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mhiqrambg&layout=compact&theme=dark)
-</p>
+
