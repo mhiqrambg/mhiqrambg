@@ -48,6 +48,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  ![](https://raw.githubusercontent.com/mhiqrambg/github-stats/master/generated/overview.svg#gh-dark-mode-only)
   <br/><br/>  
 </p>
