@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Muh. Iqram Bahring
-### A Junior Fullstack Developer from Indonesia
+### A Junior Backend Developer from Indonesian
 
-* 🌱 I’m currently learning **JavaScript Development Environment**.
-* 👨‍💻 See my professional profile on [LinkedIn](https://www.linkedin.com/in/mhiqrambhrng/).
-* 📝 I regularly write articles on [Blogger](https://muhiqrambahring.blogspot.com/).
-* 📫 Contact me via [mail@mibp.dev](mailto:mail@mibp.dev).
+*  I’m currently learning **JavaScript Development Environment**.
+*  See my professional profile on [LinkedIn](https://www.linkedin.com/in/mhiqrambhrng/).
+*  I regularly write articles on [Blogger](https://muhiqrambahring.blogspot.com/).
+*  Contact me via [mail@mibp.dev](mailto:mail@mibp.dev).
 
 ---
 
@@ -27,21 +27,6 @@
 
 ---
 
-### 💻 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" />
-</p>
 
 ---
 
