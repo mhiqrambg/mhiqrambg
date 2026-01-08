@@ -4,7 +4,7 @@
 * 🌱 I’m currently learning **JavaScript Development Environment**.
 * 👨‍💻 See my professional profile on [LinkedIn](https://www.linkedin.com/in/mhiqrambhrng/).
 * 📝 I regularly write articles on [Blogger](https://muhiqrambahring.blogspot.com/).
-* 📫 Contact me via [mail@muhiqrambahring.com](mailto:mail@muhiqrambahring.com).
+* 📫 Contact me via [mail@mibp.dev](mailto:mail@mibp.dev).
 
 ---
 
