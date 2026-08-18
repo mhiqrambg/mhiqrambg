@@ -32,5 +32,5 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=mhiqrambg&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mhiqrambg&theme=dark)](https://git.io/streak-stats)
 
