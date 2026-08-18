@@ -32,5 +32,5 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mhiqrambg&theme=dark)](https://git.io/streak-stats)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=mhiqrambg&prs=false&following=false)](https://www.readmecodegen.com/custom-github-card-generator)
 
